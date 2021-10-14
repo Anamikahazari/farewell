@@ -1,0 +1,13 @@
+.topbar{
+    color:#385170;
+    margin:0 auto;
+    background-color: #ececec;
+}
+.topbarTitle{
+    font-family: 'Josefin Sans', sans-serif;
+
+}
+.imaWrapper{
+    right:0px;
+    top:0px;
+}
